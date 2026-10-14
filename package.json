@@ -1,0 +1,12 @@
+{
+  "name": "profile-views-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy for komarev.com profile views badge, so GitHub camo stops failing to fetch it",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
